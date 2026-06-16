@@ -12,3 +12,9 @@
 * **Web Development:** HTML, CSS
 * **Version Control:** Git, GitHub
 
+### Current Semester Courses
+* Computer Programming (Lab)
+* Multivariable Calculus
+* English (Functional)
+
+
